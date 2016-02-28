@@ -24,3 +24,7 @@ README
         *  链接本仓库里的URL
     *  锚点
     * [图片超链接](#piclink)
+该文件用来测试    
+和展示书写README     
+
+[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示") 
